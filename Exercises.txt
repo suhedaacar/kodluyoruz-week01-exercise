@@ -1,0 +1,12 @@
+val list = List(32,115,23,1,52,28)
+
+
+1- Finding max value 
+   
+   
+
+
+
+2- Difference between max and min value
+
+   
